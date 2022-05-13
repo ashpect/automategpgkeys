@@ -4,9 +4,9 @@ Script file serves 2 purposes :
 
 # FLOW OF CODE :
 1. Check if gpg keys exist or not.<br>
-    IF YES <br>
+    1. IF YES <br>
         Ask the user if he wants to create a new key or exit ?<br>
-    IF NO<br>
+    2. IF NO<br>
         Ask the user if he wants to create a new key, access already existing keys or exit ?
 2. If user requires new key
     1. Generate new keys
