@@ -3,7 +3,7 @@ Script file serves 2 purposes :
     Using existing key or making a new key for git commits easier.
 
 # FLOW OF CODE :
-1. Check if gpg keys exist or not.
+1. Check if gpg keys exist or not.<br>
     IF YES 
         Ask the user if he wants to create a new key or exit ?
     IF NO
